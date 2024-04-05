@@ -1,0 +1,7 @@
+Hangman se joacă in perechi, Jucătorul 1 împotriva Jucătorului 2.
+
+Scopul jocului este să se afle cuvântul introdus, format doar din litere (fără cifre sau caractere speciale), atunci când se cunosc litera de la început, cea de la final și toate aparițiile acestora, timp de 10 runde.
+
+Rolurile jucătorilor alternează în funcție de numărul rundei: atunci când numărul rundei curente este impar, Jucătorul 1 alege cuvântul pe care îl va ghici Jucătorul 2. În caz contrar, Jucătorul 1 va ghici cuvântul ales de Jucătorul 2.
+
+Runda este câștigată atunci când cuvântul este ghicit cu mai puțin de 8 încercări greșite. Dacă numărul de încercări greșite este mai mare de 8, runda este pierdută.

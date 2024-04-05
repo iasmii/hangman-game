@@ -1,0 +1,25 @@
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\bin\Debug\atestat spanzuratoarea.exe.config
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\bin\Debug\atestat spanzuratoarea.exe
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\bin\Debug\atestat spanzuratoarea.pdb
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat_spanzuratoarea.Form1.resources
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat_spanzuratoarea.Properties.Resources.resources
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.exe
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.pdb
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat_spanzuratoarea.frmReguli.resources
+C:\Users\USER\source\repos\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat_spanzuratoarea.frmJoc.resources
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\bin\Debug\atestat spanzuratoarea.exe.config
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\bin\Debug\atestat spanzuratoarea.exe
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\bin\Debug\atestat spanzuratoarea.pdb
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat_spanzuratoarea.Form1.resources
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat_spanzuratoarea.frmReguli.resources
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat_spanzuratoarea.frmJoc.resources
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat_spanzuratoarea.Properties.Resources.resources
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.csproj.GenerateResource.cache
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.exe
+C:\Users\USER\Documents\aaa\atestat spanzuratoarea\atestat spanzuratoarea\obj\Debug\atestat spanzuratoarea.pdb
